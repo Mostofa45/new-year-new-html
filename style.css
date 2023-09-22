@@ -1,0 +1,54 @@
+.my-1st-div{
+    background-image: url(images/banner/banner3.png);
+    background-size: 100%;
+    color: white;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 145px 145px 140px 630px;
+}
+.primary-btn-padding{
+    padding-top: 15px;
+
+}
+.primary-btn{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    color: rgb(81, 128, 230);
+}
+.my-2nd-div-img-text{
+    display: flex;
+    padding: 200px 150px 50px 150px;
+    gap: 80px;
+}
+.images-facebook{
+    width: 300px;
+
+    
+}
+.div-text{
+    height: 30px;
+    width: 400px;
+}
+/* my-plans-div */
+.my-plans-div{
+    text-align: center;
+}
+.display-flex-4{
+    display: flex;
+    text-align: center;
+
+    gap: 50px;
+    padding: 50px 150px;
+}
+.icon-text-b{
+    font-size: 20px;
+}
+/* div-call-now */
+.div-call-now{
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+.h1-call-now{color: rgb(255, 255, 255);}
