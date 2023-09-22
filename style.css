@@ -48,7 +48,46 @@
 /* div-call-now */
 .div-call-now{
     background-image: url(images/watch.png);
+    background-size: 100^;
     background-repeat: no-repeat;
     padding: 50px;
 }
-.h1-call-now{color: rgb(255, 255, 255);}
+.div-call-now-padding{
+    padding: 0PX 150PX 100PX 150PX;
+}
+.h1-call-now
+{color: rgb(255, 255, 255);
+}
+/* class="img-icon-f-t-y" */
+.my-last-div{
+    padding: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 150px;
+
+}
+.my-last-div-1{
+    display: contents;
+    padding: 200px;
+}
+.input-email{
+    padding: 15px;
+    border-radius: 10px;
+}
+.my-last-div-2{
+    padding-right: 100px;
+    gap: 20px;
+}
+.input-email{
+    background-color: black;
+    border: 1px solid white;
+}
+.primary-btn-last{
+    padding: 10px 15px;
+    border-radius: 5px;
+    border-top: 20px;
+}
+#input-button-gap{
+    gap: 20px;
+}
