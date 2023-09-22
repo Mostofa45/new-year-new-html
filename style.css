@@ -8,24 +8,21 @@
 }
 .primary-btn-padding{
     padding-top: 15px;
-
 }
 .primary-btn{
     background-color: rgb(255, 255, 255);
     border: none;
     border-radius: 5px;
-    padding: 20px;
+    padding: 15px 20px;
     color: rgb(81, 128, 230);
 }
 .my-2nd-div-img-text{
     display: flex;
-    padding: 200px 150px 50px 150px;
+    padding: 150px 150px 50px 150px;
     gap: 80px;
 }
 .images-facebook{
     width: 300px;
-
-    
 }
 .div-text{
     height: 30px;
@@ -38,7 +35,6 @@
 .display-flex-4{
     display: flex;
     text-align: center;
-
     gap: 50px;
     padding: 50px 150px;
 }
@@ -49,6 +45,7 @@
 .div-call-now{
     background-image: url(images/watch.png);
     background-size: 100^;
+    border-radius: 10px;
     background-repeat: no-repeat;
     padding: 50px;
 }
@@ -65,7 +62,6 @@
     color: white;
     display: flex;
     gap: 150px;
-
 }
 .my-last-div-1{
     display: contents;
@@ -86,8 +82,11 @@
 .primary-btn-last{
     padding: 10px 15px;
     border-radius: 5px;
-    border-top: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(61, 107, 167);
+
 }
-#input-button-gap{
-    gap: 20px;
+.button-padding-top{
+    padding-top: 20px;
 }
